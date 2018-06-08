@@ -1,0 +1,1 @@
+draw_text_transformed(argument0,argument1,argument2,global.ar * argument3,global.ar * argument3,0);
